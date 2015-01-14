@@ -39,6 +39,9 @@ Courses
 	- This class introduces the basic facilities provided in modern operating systems. The course divides into three major sections. The first part of the course discusses concurrency. The second part of the course addresses the problem of memory management. The third major part of the course concerns file systems.
 	- [Lecture Notes](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php)
 	- [Assignments](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/projects.php)
+- [CS162](http://cs162.eecs.berkeley.edu/) **Operating Systems and Systems Programming** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+  - Operating Systems course by the Chair of EECS, UC Berkeley [David Culler](http://www.cs.berkeley.edu/~culler/)
+  - [Youtube Playlist](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAARFmCufZ6XeMPPgAzNSNa) Fall 2014 lectures
 - [CS 186](https://sites.google.com/site/cs186fall2013/home) **Introduction to Database Systems** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
 	- In the project assignments in CS186, you will write a basic database management system called SimpleDB. For this project, you will focus on implementing the core modules required to access stored data on disk; in future projects, you will add support for various query processing operators, as well as transactions, locking, and concurrent queries.
 	- [Lecture Notes](https://sites.google.com/site/cs186fall2013/section-notes)
@@ -105,6 +108,10 @@ management, storage management, files, distributed systems, and case studies.
 	- [Lectures and Recitation](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) 
 	- [Homeworks](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=homeworks) 7 HWs with answer set as well
 	- [Readings] (http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
+- [cs4414](http://rust-class.org/index.html) **Operating Systems** *University of Virginia* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
+	- A course (that) covers topics including: Analysis process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems. The primary goal of this course is to improve your ability to build scalable, robust and secure computing systems. It focuses on doing that by understanding what underlies the core abstractions of modern computer systems.
+	- [Syllabus](http://rust-class.org/pages/syllabus.html)
+	- [Lectures](http://rust-class.org/pages/classes.html)
 
 -------
 
@@ -352,6 +359,11 @@ management, storage management, files, distributed systems, and case studies.
 	- Taught by one of the leading experts on Machine Learning - **Tom Mitchell**
 	- [Lectures](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 	- [Project Ideas and Datasets](http://www.cs.cmu.edu/~tom/10701_sp11/proj.shtml)
+- [Open Sourced Elective: Database and Rails](http://www.schneems.com/ut-rails/) **Intro to Ruby on Rails** *University of Texas* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- An introductory course in Ruby on Rails open sourced by University of Texas' CS Adjunct Professor, Richard Schneeman.
+	- [Lectures](http://www.schneems.com/ut-rails/)
+	- [Assignments](http://www.schneems.com/ut-rails/)
+	- [Videos](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F)
 
 -----
 
